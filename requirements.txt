@@ -23,7 +23,7 @@ Jinja2==2.11.3
 MarkupSafe==1.1.1
 mysql-connector==2.2.9
 packaging==20.4
-Pillow==9.0.1
+Pillow==9.2.0
 paramiko==2.10.1
 psutil==5.7.2
 psycopg2-binary==2.8.5
